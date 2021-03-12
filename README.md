@@ -1,3 +1,5 @@
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=truestbyheart&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
+
 Username: truestbyheart | email: margalight@outlook.com
 
 <!--
