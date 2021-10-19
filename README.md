@@ -20,6 +20,19 @@
 ## Github Stats
 
 
+      
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truestbyheart" />
+      
+      
+        
+</a><a href="https://github.com/truestbyheart/truestbyheart">
+      
+        
+      
+        
+
+
 ![stats](https://github-readme-stats.vercel.app/api?username=truestbyheart&show_icons=true&theme=dracula)
 
 
