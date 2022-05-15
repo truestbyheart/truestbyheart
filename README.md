@@ -17,23 +17,22 @@
 <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/><img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/><img alt="Material UI" src="https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white"/><img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/><img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/><img alt="Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/><img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/><img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
 
 
-## Github Stats
+## Github Stat
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truestbyheart" />
 
-      
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truestbyheart" />
-      
-      
-        
 </a><a href="https://github.com/truestbyheart/truestbyheart">
-      
-        
-      
-        
-
-
+  
 ![stats](https://github-readme-stats.vercel.app/api?username=truestbyheart&show_icons=true&theme=dracula)
+
+      
+        
+  
+## Music
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21rbufmxvwr247bax7bcabzxq&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+        
+
+
 
 
 <!--
